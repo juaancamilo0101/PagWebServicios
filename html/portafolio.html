@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juan Camilo Peña Marín - Portafolio</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+            <div class="container">
+                <a class="navbar-brand" href="../index.html">
+                    <img src="../img/logo.png" alt="Logo" height="30" class="d-inline-block align-text-top logo">
+                    <span id="titulo">Juan Camilo Peña Marín</span>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="../index.html" id="inicioDeDireccion">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="servicios.html" id="resumeDireccion">Servicios</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="portafolio.html" id="portfolioDireccion">Portafolio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="contacto.html" id="contactDireccion">Contacto</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <i class="fas fa-globe"></i> <span id="idiomaActual">ES</span>
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" href="#" id="es"><i class="fas fa-check fa-blank"></i> ES</a></li>
+                                <li><a class="dropdown-item" href="#" id="en"><i class="fas fa-check fa-blank"></i> EN</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section id="portafolio" class="py-5">
+            <div class="container">
+                <h2 class="text-center mb-4" id="portfolioTitulo">Portafolio</h2>
+                <div class="row">
+                    <div class="col-md-4 mb-4">
+                        <div class="card">
+                            <img src="../img/proyecto1.jpg" class="card-img-top" alt="Proyecto 1">
+                            <div class="card-body">
+                                <h5 class="card-title" id="proyecto1Titulo">Proyecto 1</h5>
+                                <p class="card-text" id="proyecto1Descripcion">Descripción breve del proyecto 1. Puedes incluir tecnologías utilizadas, etc.</p>
+                                <a href="#" class="btn btn-primary" id="btnProyecto1" target="_blank">Ver proyecto</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-4">
+                        <div class="card">
+                            <img src="../img/proyecto2.jpg" class="card-img-top" alt="Proyecto 2">
+                            <div class="card-body">
+                                <h5 class="card-title" id="proyecto2Titulo">Proyecto 2</h5>
+                                <p class="card-text" id="proyecto2Descripcion">Descripción breve del proyecto 2.</p>
+                                <a href="#" class="btn btn-primary" id="btnProyecto2" target="_blank">Ver proyecto</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-4">
+                        <div class="card">
+                            <img src="../img/proyecto3.jpg" class="card-img-top" alt="Proyecto 3">
+                            <div class="card-body">
+                                <h5 class="card-title" id="proyecto3Titulo">Proyecto 3</h5>
+                                <p class="card-text" id="proyecto3Descripcion">Descripción breve del proyecto 3.</p>
+                                <a href="#" class="btn btn-primary" id="btnProyecto3" target="_blank">Ver proyecto</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-12 text-center">
+                        <p id="hojaVidaTexto">Para ver mi hoja de vida completa, visita mi página web:</p>
+                        <a href="#" class="btn btn-secondary" id="btnHojaVida" target="_blank">Hoja de vida</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-dark text-light py-3">
+        <div class="container">
+            <p class="text-center m-0">&copy; 2025 <span id="tituloFooter">Juan Camilo Peña Marín</span>. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://kit.fontawesome.com/9867a95b51.js" crossorigin="anonymous"></script>
+    <script src="../js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,150 @@
+{
+    "titulo": {
+        "es": "Juan Camilo Peña Marín",
+        "en": "Juan Camilo Peña Marín"
+    },
+    "inicioDeDireccion": {
+        "es": "Inicio",
+        "en": "Home"
+    },
+    "resumeDireccion": {
+        "es": "Servicios",
+        "en": "Services"
+    },
+    "portfolioDireccion": {
+        "es": "Portafolio",
+        "en": "Portfolio"
+    },
+    "contactDireccion": {
+        "es": "Contacto",
+        "en": "Contact"
+    },
+    "saludo": {
+        "es": "Hola, soy",
+        "en": "Hi, I'm"
+    },
+    "nombre": {
+        "es": "Juan Camilo",
+        "en": "Juan Camilo"
+    },
+    "descripcion": {
+        "es": "Ingeniero de software con experiencia en...",
+        "en": "Software engineer with experience in..."
+    },
+    "btnVerContacto": {
+        "es": "Contactar",
+        "en": "Contact"
+    },
+    "tituloFooter": {
+        "es": "Juan Camilo Peña Marín",
+        "en": "Juan Camilo Peña Marín"
+    },
+    "serviciosTitulo": {
+        "es": "Servicios",
+        "en": "Services"
+    },
+    "servicio1Titulo": {
+        "es": "Servicio 1",
+        "en": "Service 1"
+    },
+    "servicio1Descripcion": {
+        "es": "Descripción del servicio 1.",
+        "en": "Description of service 1."
+    },
+    "servicio2Titulo": {
+        "es": "Servicio 2",
+        "en": "Service 2"
+    },
+    "servicio2Descripcion": {
+        "es": "Descripción del servicio 2.",
+        "en": "Description of service 2."
+    },
+    "servicio3Titulo": {
+        "es": "Servicio 3",
+        "en": "Service 3"
+    },
+    "servicio3Descripcion": {
+        "es": "Descripción del servicio 3.",
+        "en": "Description of service 3."
+    },
+    "portfolioTitulo": {
+        "es": "Portafolio",
+        "en": "Portfolio"
+    },
+    "proyecto1Titulo": {
+        "es": "Proyecto 1",
+        "en": "Project 1"
+    },
+    "proyecto1Descripcion": {
+        "es": "Descripción breve del proyecto 1. Puedes incluir tecnologías utilizadas, etc.",
+        "en": "Brief description of project 1. You can include technologies used, etc."
+    },
+    "btnProyecto1": {
+        "es": "Ver proyecto",
+        "en": "View project"
+    },
+    "proyecto2Titulo": {
+        "es": "Proyecto 2",
+        "en": "Project 2"
+    },
+    "proyecto2Descripcion": {
+        "es": "Descripción breve del proyecto 2.",
+        "en": "Brief description of project 2."
+    },
+    "btnProyecto2": {
+        "es": "Ver proyecto",
+        "en": "View project"
+    },
+    "proyecto3Titulo": {
+        "es": "Proyecto 3",
+        "en": "Project 3"
+    },
+    "proyecto3Descripcion": {
+        "es": "Descripción breve del proyecto 3.",
+        "en": "Brief description of project 3."
+    },
+    "btnProyecto3": {
+        "es": "Ver proyecto",
+        "en": "View project"
+    },
+    "hojaVidaTexto": {
+        "es": "Para ver mi hoja de vida completa, visita mi página web:",
+        "en": "To see my complete resume, visit my website:"
+    },
+    "btnHojaVida": {
+        "es": "Hoja de vida",
+        "en": "Resume"
+    },
+    "contactTitulo": {
+        "es": "Contacto",
+        "en": "Contact"
+    },
+    "nombreLabel": {
+        "es": "Nombre:",
+        "en": "Name:"
+    },
+    "emailLabel": {
+        "es": "Email:",
+        "en": "Email:"
+    },
+    "mensajeLabel": {
+        "es": "Mensaje:",
+        "en": "Message:"
+    },
+    "nombreError": {
+        "es": "Por favor, ingresa tu nombre.",
+        "en": "Please, enter your name."
+    },
+    "emailError": {
+        "es": "Por favor, ingresa un email válido.",
+        "en": "Please, enter a valid email."
+    },
+    "mensajeError": {
+        "es": "Por favor, ingresa tu mensaje.",
+        "en": "Please, enter your message."
+    },
+    "btnEnviar": {
+        "es": "Enviar",
+        "en": "Send"
+    }
+}
