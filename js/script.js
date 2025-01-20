@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const mensajeExito = document.getElementById('mensaje-exito');
     const mensajeError = document.getElementById('mensaje-error');
 
+    
     if (form) {
         form.addEventListener('submit', function(event) {
             event.preventDefault();

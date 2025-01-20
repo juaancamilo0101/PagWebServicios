@@ -20,8 +20,8 @@
         "en": "Contact"
     },
     "saludo": {
-        "es": "Hola, soy",
-        "en": "Hi, I'm"
+        "es": "Hola, soy Juan Camilo Peña Marín",
+        "en": "Hi, I'm Juan Camilo Peña Marín"
     },
     "nombre": {
         "es": "Juan Camilo",
@@ -146,5 +146,37 @@
     "btnEnviar": {
         "es": "Enviar",
         "en": "Send"
+    },
+    "descripcionInicial": {
+        "es": "Ingeniero de software apasionado por desarrollar soluciones web personalizadas a la medida de las necesidades de mis clientes. Ofrezco servicios que incluyen:",
+        "en": "Software engineer passionate about developing custom web solutions tailored to the needs of my clients. I offer services that include:"
+    },
+    "appWeb": {
+        "es": "Diseño y desarrollo de aplicaciones web modernas y responsivas.",
+        "en": "Design and development of modern and responsive web applications."
+    },
+    "gestionInventarios": {
+        "es": "Implementación de sistemas de gestión de inventarios con opciones de alquiler para optimizar tus operaciones.",
+        "en": "Implementation of inventory management systems with rental options to optimize your operations."
+    },
+    "automatizacionProcesos": {
+        "es": "Automatización de procesos empresariales para aumentar la productividad.",
+        "en": "Automation of business processes to increase productivity."
+    },
+    "integracionPlataformas": {
+        "es": "Integración de plataformas y APIs para mejorar la conectividad y el flujo de datos.",
+        "en": "Integration of platforms and APIs to improve connectivity and data flow."
+    },
+    "soporteTecnico": {
+        "es": "Soporte técnico continuo y mantenimiento de software.",
+        "en": "Continuous technical support and software maintenance."
+    },
+    "tiendasOnline": {
+        "es": "Desarrollo de tiendas online y soluciones de comercio electrónico.",
+        "en": "Development of online stores and e-commerce solutions."
+    },
+    "descripcionFinal": {
+        "es": "Mi objetivo es ayudarte a convertir tus ideas en soluciones tecnológicas eficientes y escalables.",
+        "en": "My goal is to help you turn your ideas into efficient and scalable technology solutions."
     }
 }
