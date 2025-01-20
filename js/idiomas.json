@@ -48,20 +48,20 @@
         "en": "Services"
     },
     "servicio1Titulo": {
-        "es": "Servicio 1",
-        "en": "Service 1"
+        "es": "Diseño y desarrollo de aplicaciones web modernas y responsivas",
+        "en": "Design and development of modern and responsive web applications"
     },
     "servicio1Descripcion": {
-        "es": "Descripción del servicio 1.",
-        "en": "Description of service 1."
+        "es": "Creo aplicaciones web a medida, utilizando las últimas tecnologías y frameworks para garantizar un rendimiento óptimo y una experiencia de usuario excepcional.",
+        "en": "I create custom web applications, using the latest technologies and frameworks to ensure optimal performance and an exceptional user experience."
     },
     "servicio2Titulo": {
-        "es": "Servicio 2",
-        "en": "Service 2"
+        "es": "Automatización de procesos empresariales para aumentar la productividad",
+        "en": "Business process automation to increase productivity"
     },
     "servicio2Descripcion": {
-        "es": "Descripción del servicio 2.",
-        "en": "Description of service 2."
+        "es": "Implemento soluciones de software para automatizar tareas repetitivas, optimizar flujos de trabajo y mejorar la eficiencia operativa de tu negocio.",
+        "en": "I implement software solutions to automate repetitive tasks, streamline workflows, and improve operational efficiency of your business."
     },
     "servicio3Titulo": {
         "es": "Servicio 3",
