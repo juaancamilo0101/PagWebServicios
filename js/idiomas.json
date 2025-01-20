@@ -31,6 +31,10 @@
         "es": "Ingeniero de software con experiencia en...",
         "en": "Software engineer with experience in..."
     },
+    "btnVerServicios": {
+        "es": "Ver todos los servicios",
+        "en": "See all services"
+    },
     "btnVerContacto": {
         "es": "Contactar",
         "en": "Contact"
