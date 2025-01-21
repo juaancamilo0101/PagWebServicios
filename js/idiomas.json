@@ -116,40 +116,40 @@
         "en": "Portfolio"
     },
     "proyecto1Titulo": {
-        "es": "Proyecto 1",
-        "en": "Project 1"
+        "es": "Portafolio web",
+        "en": "web portfolio"
     },
     "proyecto1Descripcion": {
-        "es": "Descripción breve del proyecto 1. Puedes incluir tecnologías utilizadas, etc.",
-        "en": "Brief description of project 1. You can include technologies used, etc."
-    },
+        "es": "Te ayudo a crear un portafolio web atractivo y profesional que muestre tus habilidades y proyectos de forma efectiva. Desarrollo portafolios personalizados, adaptados a tus necesidades y enfocados en la experiencia de usuario. Utilizo una variedad de tecnologías, incluyendo HTML, CSS, JavaScript, y frameworks como React, junto con otras herramientas y librerías modernas para el desarrollo web. Mi propio portafolio es un ejemplo de lo que puedo hacer.",
+    "en": "I help you create an attractive and professional web portfolio that effectively showcases your skills and projects. I develop custom portfolios, tailored to your needs and focused on user experience. I use a variety of technologies, including HTML, CSS, JavaScript, and frameworks like React, along with other modern web development tools and libraries. My own portfolio is an example of what I can do."
+},
     "btnProyecto1": {
-        "es": "Ver proyecto",
-        "en": "View project"
+        "es": "Ver Portafolio",
+        "en": "See Portfolio"
     },
     "proyecto2Titulo": {
-        "es": "Proyecto 2",
-        "en": "Project 2"
+        "es": "Asesoría y Gestión de Cita Previa de Extranjería - Zaragoza",
+        "en": "Consulting and Management of Immigration Appointments - Zaragoza"
     },
     "proyecto2Descripcion": {
-        "es": "Descripción breve del proyecto 2. Puedes incluir tecnologías utilizadas, etc.",
-        "en": "Descripción breve del proyecto 1. Puedes incluir tecnologías utilizadas, etc"
-    },
+        "es": "Desarrollo de una aplicación web informativa y de gestión de citas para la oficina de extranjería en Zaragoza. La plataforma ofrece información detallada sobre los diferentes tipos de visados, requisitos y procedimientos. Además, facilita la gestión de citas previas, permitiendo a los usuarios solicitar y obtener citas de forma eficiente. El proyecto se enfoca en simplificar y agilizar el proceso de trámites de extranjería para los usuarios en España.",
+    "en": "Development of an informative web application for managing appointments at the immigration office in Zaragoza. The platform offers detailed information on different types of visas, requirements, and procedures. Additionally, it facilitates the management of appointments, allowing users to efficiently request and obtain them. The project focuses on simplifying and streamlining the immigration procedures for users in Spain."
+},
     "btnProyecto2": {
-        "es": "Ver proyecto",
-        "en": "View project"
+        "es": "Ver página web",
+        "en": "See website"
     },
     "proyecto3Titulo": {
-        "es": "Proyecto 3",
-        "en": "Project 3"
+        "es": "Página Web Personal",
+        "en": "Personal Website"
     },
     "proyecto3Descripcion": {
-        "es": "Descripción breve del proyecto 1. Puedes incluir tecnologías utilizadas, etc",
-        "en": "Descripción breve del proyecto 1. Puedes incluir tecnologías utilizadas, etc"
-    },
+        "es": "Diseño y desarrollo de mi portafolio web personal para mostrar mis habilidades, proyectos y servicios como ingeniero de software. El sitio web está construido con HTML, CSS, JavaScript y Bootstrap, y se implementan funcionalidades de cambio de idioma y un tema oscuro. Además, se integra un formulario de contacto a través de EmailJS.",
+    "en": "Design and development of my personal portfolio website to showcase my skills, projects, and services as a software engineer. The website is built using HTML, CSS, JavaScript, and Bootstrap, and implements language switching and a dark theme. Additionally, a contact form is integrated using EmailJS."
+},
     "btnProyecto3": {
-        "es": "Ver proyecto",
-        "en": "View project"
+        "es": "Ver página web",
+        "en": "See website"
     },
     "hojaVidaTexto": {
         "es": "Para ver mi hoja de vida completa, visita mi página web:",
