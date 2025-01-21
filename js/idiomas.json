@@ -132,8 +132,8 @@
         "en": "Project 2"
     },
     "proyecto2Descripcion": {
-        "es": "Descripción breve del proyecto 2.",
-        "en": "Brief description of project 2."
+        "es": "Descripción breve del proyecto 2. Puedes incluir tecnologías utilizadas, etc.",
+        "en": "Descripción breve del proyecto 1. Puedes incluir tecnologías utilizadas, etc"
     },
     "btnProyecto2": {
         "es": "Ver proyecto",
@@ -144,8 +144,8 @@
         "en": "Project 3"
     },
     "proyecto3Descripcion": {
-        "es": "Descripción breve del proyecto 3.",
-        "en": "Brief description of project 3."
+        "es": "Descripción breve del proyecto 1. Puedes incluir tecnologías utilizadas, etc",
+        "en": "Descripción breve del proyecto 1. Puedes incluir tecnologías utilizadas, etc"
     },
     "btnProyecto3": {
         "es": "Ver proyecto",
