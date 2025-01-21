@@ -135,8 +135,9 @@ footer {
 
 .vh-100 {
     min-height: 100vh;
-   
 }
+
+
 
 main {
     margin-bottom: 45px; /* Ajusta este valor al alto de tu footer */
