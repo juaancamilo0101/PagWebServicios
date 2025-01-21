@@ -64,12 +64,52 @@
         "en": "I implement software solutions to automate repetitive tasks, streamline workflows, and improve operational efficiency of your business."
     },
     "servicio3Titulo": {
-        "es": "Servicio 3",
-        "en": "Service 3"
+        "es": "Desarrollo de tiendas online y soluciones de comercio electrónico",
+        "en": "Development of online stores and e-commerce solutions"
     },
     "servicio3Descripcion": {
-        "es": "Descripción del servicio 3.",
-        "en": "Description of service 3."
+        "es": "Creo tiendas online atractivas y funcionales, integradas con plataformas de pago seguras y sistemas de gestión de pedidos para que puedas vender tus productos o servicios en internet.",
+        "en": "I create attractive and functional online stores, integrated with secure payment platforms and order management systems so you can sell your products or services online."
+    },
+    "servicio4Titulo": {
+        "es": "Implementación de sistemas de gestión de inventarios con opciones de alquiler",
+        "en": "Implementation of inventory management systems with rental options"
+    },
+    "servicio4Descripcion": {
+        "es": "Desarrollo e implemento sistemas de gestión de inventarios que te permiten controlar el stock, optimizar el espacio de almacenamiento y ofrecer opciones de alquiler de forma eficiente.",
+        "en": "I develop and implement inventory management systems that allow you to control stock, optimize storage space, and offer rental options efficiently."
+    },
+    "servicio5Titulo": {
+        "es": "Integración de plataformas y APIs para mejorar la conectividad y el flujo de datos",
+        "en": "Integration of platforms and APIs to improve connectivity and data flow"
+    },
+    "servicio5Descripcion": {
+        "es": "Conecto tus sistemas y aplicaciones a través de APIs para que la información fluya sin problemas entre ellos, eliminando la necesidad de introducir datos manualmente y reduciendo errores.",
+        "en": "I connect your systems and applications through APIs so that information flows seamlessly between them, eliminating the need for manual data entry and reducing errors."
+    },
+    "servicio6Titulo": {
+        "es": "Soporte técnico continuo y mantenimiento de software",
+        "en": "Ongoing technical support and software maintenance"
+    },
+    "servicio6Descripcion": {
+        "es": "Ofrezco servicios de soporte técnico y mantenimiento para garantizar que tus aplicaciones web y sistemas de software funcionen correctamente a largo plazo.",
+        "en": "I offer technical support and maintenance services to ensure that your web applications and software systems work properly in the long term."
+    },
+    "servicio7Titulo": {
+        "es": "Desarrollo de Aplicaciones Móviles",
+        "en": "Mobile Application Development"
+    },
+    "servicio7Descripcion": {
+        "es": "Creación de aplicaciones móviles nativas e híbridas para iOS y Android. Diseño atractivo, rendimiento optimizado y experiencia de usuario intuitiva.",
+        "en": "Creation of native and hybrid mobile applications for iOS and Android. Attractive design, optimized performance, and intuitive user experience."
+    },
+    "servicio8Titulo": {
+        "es": "Asesoría y Diseño de Portafolios Web Personales",
+        "en": "Consulting and Design of Personal Web Portfolios"
+    },
+    "servicio8Descripcion": {
+        "es": "Te ayudo a crear un portafolio web atractivo y profesional que destaque tus habilidades y experiencia para que puedas impresionar a potenciales empleadores o clientes.",
+        "en": "I help you create an attractive and professional web portfolio that highlights your skills and experience so you can impress potential employers or clients."
     },
     "portfolioTitulo": {
         "es": "Portafolio",
@@ -154,30 +194,6 @@
     "descripcionInicial": {
         "es": "Ingeniero de software apasionado por desarrollar soluciones web personalizadas a la medida de las necesidades de mis clientes. Ofrezco servicios que incluyen:",
         "en": "Software engineer passionate about developing custom web solutions tailored to the needs of my clients. I offer services that include:"
-    },
-    "appWeb": {
-        "es": "Diseño y desarrollo de aplicaciones web modernas y responsivas.",
-        "en": "Design and development of modern and responsive web applications."
-    },
-    "gestionInventarios": {
-        "es": "Implementación de sistemas de gestión de inventarios con opciones de alquiler para optimizar tus operaciones.",
-        "en": "Implementation of inventory management systems with rental options to optimize your operations."
-    },
-    "automatizacionProcesos": {
-        "es": "Automatización de procesos empresariales para aumentar la productividad.",
-        "en": "Automation of business processes to increase productivity."
-    },
-    "integracionPlataformas": {
-        "es": "Integración de plataformas y APIs para mejorar la conectividad y el flujo de datos.",
-        "en": "Integration of platforms and APIs to improve connectivity and data flow."
-    },
-    "soporteTecnico": {
-        "es": "Soporte técnico continuo y mantenimiento de software.",
-        "en": "Continuous technical support and software maintenance."
-    },
-    "tiendasOnline": {
-        "es": "Desarrollo de tiendas online y soluciones de comercio electrónico.",
-        "en": "Development of online stores and e-commerce solutions."
     },
     "descripcionFinal": {
         "es": "Mi objetivo es ayudarte a convertir tus ideas en soluciones tecnológicas eficientes y escalables.",

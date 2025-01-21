@@ -37,7 +37,7 @@ body {
     color: #0d6efd !important; /* Color del enlace activo (puedes cambiarlo) */
 }
 
-/* Estilos del dropdown de idioma */
+/* ----------------------- Estilos del dropdown de idioma -----------------------------*/
 .dropdown-menu {
     background-color: #343a40; /* Color de fondo del dropdown */
     border: none;
@@ -76,10 +76,10 @@ body {
 .dropdown-item:not(.active) .fa-check {
     display: contents ;
 }
-/* Fin de estilos del dropdown de idioma */
+/* ---------------------- Fin de estilos del dropdown de idioma ---------------------------- */
 
 .hero {
-    /*  background-color: #f8f9fa;  <- Elimina esta línea */
+    
     padding: 50px 0;
     text-align: center;
     position: relative;
@@ -101,7 +101,7 @@ footer {
     margin-top: 0px;
 }
 
-/* CSS PARA EL VIDEO ------------------------------------- */
+/* ------------------------------- CSS PARA EL VIDEO ------------------------------------- */
 
 .video-col {
     padding: 0; /* Importante para evitar espacios adicionales */
@@ -141,7 +141,7 @@ footer {
 main {
     margin-bottom: 45px; /* Ajusta este valor al alto de tu footer */
 }
-/* -----------------  */
+/* ------- Fin css video        --------------------------  */
 footer {
     width: 100%;
     position: fixed;
@@ -149,4 +149,17 @@ footer {
     background-color: #343a40; /* Mismo color que la navbar */
     color: #f8f9fa; /* Texto claro */
     padding: 1rem 0; /* Reduce el padding vertical */
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #0d6efd; /* Azul de Bootstrap */
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #000000; /* Color de texto ligeramente más oscuro */
+    text-align: justify;
 }
