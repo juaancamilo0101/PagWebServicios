@@ -118,9 +118,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Aquí puedes agregar más código que se ejecutará al cargar la página
-    // ...
+    
 });
 
-// El resto de tu código JavaScript (validación de formulario, etc.)
-// ...
+
