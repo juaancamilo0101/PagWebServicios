@@ -155,11 +155,27 @@ footer {
     font-size: 1.25rem;
     font-weight: bold;
     margin-bottom: 1rem;
-    color: #0d6efd; /* Azul de Bootstrap */
+    color: #9fc5ff; /* Azul de Bootstrap */
 }
 
 .card-text {
     font-size: 1rem;
-    color: #000000; /* Color de texto ligeramente más oscuro */
+    color: #ffffff; /* Color de texto ligeramente más oscuro */
     text-align: justify;
+}
+.row-eq-height {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row-eq-height > [class*='col-'] {
+    display: flex;
+}
+
+.card-body {
+    flex: 1; /* Permite que los card-body se expandan para llenar el espacio disponible */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #212529;
 }
