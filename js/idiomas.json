@@ -1,1 +1,202 @@
-{"titulo":{"es":"Juan Camilo Peña Marín","en":"Juan Camilo Peña Marín"},"inicioDeDireccion":{"es":"Inicio","en":"Home"},"resumeDireccion":{"es":"Servicios","en":"Services"},"portfolioDireccion":{"es":"Portafolio","en":"Portfolio"},"contactDireccion":{"es":"Contacto","en":"Contact"},"saludo":{"es":"Hola, soy Juan Camilo Peña Marín","en":"Hi, I'm Juan Camilo Peña Marín"},"nombre":{"es":"Juan Camilo","en":"Juan Camilo"},"descripcion":{"es":"Ingeniero de software con experiencia en...","en":"Software engineer with experience in..."},"btnVerServicios":{"es":"Ver todos los servicios","en":"See all services"},"btnVerContacto":{"es":"Contactar","en":"Contact"},"tituloFooter":{"es":"Juan Camilo Peña Marín","en":"Juan Camilo Peña Marín"},"serviciosTitulo":{"es":"Servicios","en":"Services"},"servicio1Titulo":{"es":"Diseño y desarrollo de aplicaciones web modernas y responsivas","en":"Design and development of modern and responsive web applications"},"servicio1Descripcion":{"es":"Creo aplicaciones web a medida, utilizando las últimas tecnologías y frameworks para garantizar un rendimiento óptimo y una experiencia de usuario excepcional.","en":"I create custom web applications, using the latest technologies and frameworks to ensure optimal performance and an exceptional user experience."},"servicio2Titulo":{"es":"Automatización de procesos empresariales para aumentar la productividad","en":"Business process automation to increase productivity"},"servicio2Descripcion":{"es":"Implemento soluciones de software para automatizar tareas repetitivas, optimizar flujos de trabajo y mejorar la eficiencia operativa de tu negocio.","en":"I implement software solutions to automate repetitive tasks, streamline workflows, and improve operational efficiency of your business."},"servicio3Titulo":{"es":"Desarrollo de tiendas online y soluciones de comercio electrónico","en":"Development of online stores and e-commerce solutions"},"servicio3Descripcion":{"es":"Creo tiendas online atractivas y funcionales, integradas con plataformas de pago seguras y sistemas de gestión de pedidos para que puedas vender tus productos o servicios en internet.","en":"I create attractive and functional online stores, integrated with secure payment platforms and order management systems so you can sell your products or services online."},"servicio4Titulo":{"es":"Implementación de sistemas de gestión de inventarios con opciones de alquiler","en":"Implementation of inventory management systems with rental options"},"servicio4Descripcion":{"es":"Desarrollo e implemento sistemas de gestión de inventarios que te permiten controlar el stock, optimizar el espacio de almacenamiento y ofrecer opciones de alquiler de forma eficiente.","en":"I develop and implement inventory management systems that allow you to control stock, optimize storage space, and offer rental options efficiently."},"servicio5Titulo":{"es":"Integración de plataformas y APIs para mejorar la conectividad y el flujo de datos","en":"Integration of platforms and APIs to improve connectivity and data flow"},"servicio5Descripcion":{"es":"Conecto tus sistemas y aplicaciones a través de APIs para que la información fluya sin problemas entre ellos, eliminando la necesidad de introducir datos manualmente y reduciendo errores.","en":"I connect your systems and applications through APIs so that information flows seamlessly between them, eliminating the need for manual data entry and reducing errors."},"servicio6Titulo":{"es":"Soporte técnico continuo y mantenimiento de software","en":"Ongoing technical support and software maintenance"},"servicio6Descripcion":{"es":"Ofrezco servicios de soporte técnico y mantenimiento para garantizar que tus aplicaciones web y sistemas de software funcionen correctamente a largo plazo.","en":"I offer technical support and maintenance services to ensure that your web applications and software systems work properly in the long term."},"servicio7Titulo":{"es":"Desarrollo de Aplicaciones Móviles","en":"Mobile Application Development"},"servicio7Descripcion":{"es":"Creación de aplicaciones móviles nativas e híbridas para iOS y Android. Diseño atractivo, rendimiento optimizado y experiencia de usuario intuitiva.","en":"Creation of native and hybrid mobile applications for iOS and Android. Attractive design, optimized performance, and intuitive user experience."},"servicio8Titulo":{"es":"Asesoría y Diseño de Portafolios Web Personales","en":"Consulting and Design of Personal Web Portfolios"},"servicio8Descripcion":{"es":"Te ayudo a crear un portafolio web atractivo y profesional que destaque tus habilidades y experiencia para que puedas impresionar a potenciales empleadores o clientes.","en":"I help you create an attractive and professional web portfolio that highlights your skills and experience so you can impress potential employers or clients."},"portfolioTitulo":{"es":"Portafolio","en":"Portfolio"},"proyecto1Titulo":{"es":"Portafolio web","en":"web portfolio"},"proyecto1Descripcion":{"es":"Te ayudo a crear un portafolio web atractivo y profesional que muestre tus habilidades y proyectos de forma efectiva. Desarrollo portafolios personalizados, adaptados a tus necesidades y enfocados en la experiencia de usuario. Utilizo una variedad de tecnologías, incluyendo HTML, CSS, JavaScript, y frameworks como React, junto con otras herramientas y librerías modernas para el desarrollo web. Mi propio portafolio es un ejemplo de lo que puedo hacer.","en":"I help you create an attractive and professional web portfolio that effectively showcases your skills and projects. I develop custom portfolios, tailored to your needs and focused on user experience. I use a variety of technologies, including HTML, CSS, JavaScript, and frameworks like React, along with other modern web development tools and libraries. My own portfolio is an example of what I can do."},"btnProyecto1":{"es":"Ver Portafolio","en":"See Portfolio"},"proyecto2Titulo":{"es":"Asesoría y Gestión de Cita Previa de Extranjería - Zaragoza","en":"Consulting and Management of Immigration Appointments - Zaragoza"},"proyecto2Descripcion":{"es":"Desarrollo de una aplicación web informativa y de gestión de citas para la oficina de extranjería en Zaragoza. La plataforma ofrece información detallada sobre los diferentes tipos de visados, requisitos y procedimientos. Además, facilita la gestión de citas previas, permitiendo a los usuarios solicitar y obtener citas de forma eficiente. El proyecto se enfoca en simplificar y agilizar el proceso de trámites de extranjería para los usuarios en España.","en":"Development of an informative web application for managing appointments at the immigration office in Zaragoza. The platform offers detailed information on different types of visas, requirements, and procedures. Additionally, it facilitates the management of appointments, allowing users to efficiently request and obtain them. The project focuses on simplifying and streamlining the immigration procedures for users in Spain."},"btnProyecto2":{"es":"Ver página web","en":"See website"},"proyecto3Titulo":{"es":"Página Web Personal","en":"Personal Website"},"proyecto3Descripcion":{"es":"Diseño y desarrollo de mi portafolio web personal para mostrar mis habilidades, proyectos y servicios como ingeniero de software. El sitio web está construido con HTML, CSS, JavaScript y Bootstrap, y se implementan funcionalidades de cambio de idioma y un tema oscuro. Además, se integra un formulario de contacto a través de EmailJS.","en":"Design and development of my personal portfolio website to showcase my skills, projects, and services as a software engineer. The website is built using HTML, CSS, JavaScript, and Bootstrap, and implements language switching and a dark theme. Additionally, a contact form is integrated using EmailJS."},"btnProyecto3":{"es":"Ver página web","en":"See website"},"hojaVidaTexto":{"es":"Para ver mi hoja de vida completa, visita mi página web:","en":"To see my complete resume, visit my website:"},"btnHojaVida":{"es":"Hoja de vida","en":"Resume"},"contactTitulo":{"es":"Contacto","en":"Contact"},"nombreLabel":{"es":"Nombre:","en":"Name:"},"emailLabel":{"es":"Email:","en":"Email:"},"mensajeLabel":{"es":"Mensaje:","en":"Message:"},"nombreError":{"es":"Por favor, ingresa tu nombre.","en":"Please, enter your name."},"emailError":{"es":"Por favor, ingresa un email válido.","en":"Please, enter a valid email."},"mensajeError":{"es":"Por favor, ingresa tu mensaje.","en":"Please, enter your message."},"btnEnviar":{"es":"Enviar","en":"Send"},"descripcionInicial":{"es":"Ingeniero de software apasionado por desarrollar soluciones web personalizadas a la medida de las necesidades de mis clientes. Ofrezco servicios que incluyen:","en":"Software engineer passionate about developing custom web solutions tailored to the needs of my clients. I offer services that include:"},"descripcionFinal":{"es":"Mi objetivo es ayudarte a convertir tus ideas en soluciones tecnológicas eficientes y escalables.","en":"My goal is to help you turn your ideas into efficient and scalable technology solutions."}}
+{
+    "titulo": {
+        "es": "Ingeniero de software profesional",
+        "en": "Professional software engineer"
+    },
+    "inicioDeDireccion": {
+        "es": "Inicio",
+        "en": "Home"
+    },
+    "resumeDireccion": {
+        "es": "Servicios",
+        "en": "Services"
+    },
+    "portfolioDireccion": {
+        "es": "Portafolio",
+        "en": "Portfolio"
+    },
+    "contactDireccion": {
+        "es": "Contacto",
+        "en": "Contact"
+    },
+    "saludo": {
+        "es": "Hola, soy Juan Camilo Peña Marín",
+        "en": "Hi, I'm Juan Camilo Peña Marín"
+    },
+    "nombre": {
+        "es": "Juan Camilo",
+        "en": "Juan Camilo"
+    },
+    "descripcion": {
+        "es": "Ingeniero de software con experiencia en...",
+        "en": "Software engineer with experience in..."
+    },
+    "btnVerServicios": {
+        "es": "Ver todos los servicios",
+        "en": "See all services"
+    },
+    "btnVerContacto": {
+        "es": "Contactar",
+        "en": "Contact"
+    },
+    "tituloFooter": {
+        "es": "Juan Camilo Peña Marín",
+        "en": "Juan Camilo Peña Marín"
+    },
+    "serviciosTitulo": {
+        "es": "Servicios",
+        "en": "Services"
+    },
+    "servicio1Titulo": {
+        "es": "Diseño y desarrollo de aplicaciones web modernas y responsivas",
+        "en": "Design and development of modern and responsive web applications"
+    },
+    "servicio1Descripcion": {
+        "es": "Creo aplicaciones web a medida, utilizando las últimas tecnologías y frameworks para garantizar un rendimiento óptimo y una experiencia de usuario excepcional.",
+        "en": "I create custom web applications, using the latest technologies and frameworks to ensure optimal performance and an exceptional user experience."
+    },
+    "servicio2Titulo": {
+        "es": "Automatización de procesos empresariales para aumentar la productividad",
+        "en": "Business process automation to increase productivity"
+    },
+    "servicio2Descripcion": {
+        "es": "Implemento soluciones de software para automatizar tareas repetitivas, optimizar flujos de trabajo y mejorar la eficiencia operativa de tu negocio.",
+        "en": "I implement software solutions to automate repetitive tasks, streamline workflows, and improve operational efficiency of your business."
+    },
+    "servicio3Titulo": {
+        "es": "Desarrollo de tiendas online y soluciones de comercio electrónico",
+        "en": "Development of online stores and e-commerce solutions"
+    },
+    "servicio3Descripcion": {
+        "es": "Creo tiendas online atractivas y funcionales, integradas con plataformas de pago seguras y sistemas de gestión de pedidos para que puedas vender tus productos o servicios en internet.",
+        "en": "I create attractive and functional online stores, integrated with secure payment platforms and order management systems so you can sell your products or services online."
+    },
+    "servicio4Titulo": {
+        "es": "Implementación de sistemas de gestión de inventarios con opciones de alquiler",
+        "en": "Implementation of inventory management systems with rental options"
+    },
+    "servicio4Descripcion": {
+        "es": "Desarrollo e implemento sistemas de gestión de inventarios que te permiten controlar el stock, optimizar el espacio de almacenamiento y ofrecer opciones de alquiler de forma eficiente.",
+        "en": "I develop and implement inventory management systems that allow you to control stock, optimize storage space, and offer rental options efficiently."
+    },
+    "servicio5Titulo": {
+        "es": "Integración de plataformas y APIs para mejorar la conectividad y el flujo de datos",
+        "en": "Integration of platforms and APIs to improve connectivity and data flow"
+    },
+    "servicio5Descripcion": {
+        "es": "Conecto tus sistemas y aplicaciones a través de APIs para que la información fluya sin problemas entre ellos, eliminando la necesidad de introducir datos manualmente y reduciendo errores.",
+        "en": "I connect your systems and applications through APIs so that information flows seamlessly between them, eliminating the need for manual data entry and reducing errors."
+    },
+    "servicio6Titulo": {
+        "es": "Soporte técnico continuo y mantenimiento de software",
+        "en": "Ongoing technical support and software maintenance"
+    },
+    "servicio6Descripcion": {
+        "es": "Ofrezco servicios de soporte técnico y mantenimiento para garantizar que tus aplicaciones web y sistemas de software funcionen correctamente a largo plazo.",
+        "en": "I offer technical support and maintenance services to ensure that your web applications and software systems work properly in the long term."
+    },
+    "servicio7Titulo": {
+        "es": "Desarrollo de Aplicaciones Móviles",
+        "en": "Mobile Application Development"
+    },
+    "servicio7Descripcion": {
+        "es": "Creación de aplicaciones móviles nativas e híbridas para iOS y Android. Diseño atractivo, rendimiento optimizado y experiencia de usuario intuitiva.",
+        "en": "Creation of native and hybrid mobile applications for iOS and Android. Attractive design, optimized performance, and intuitive user experience."
+    },
+    "servicio8Titulo": {
+        "es": "Asesoría y Diseño de Portafolios Web Personales",
+        "en": "Consulting and Design of Personal Web Portfolios"
+    },
+    "servicio8Descripcion": {
+        "es": "Te ayudo a crear un portafolio web atractivo y profesional que destaque tus habilidades y experiencia para que puedas impresionar a potenciales empleadores o clientes.",
+        "en": "I help you create an attractive and professional web portfolio that highlights your skills and experience so you can impress potential employers or clients."
+    },
+    "portfolioTitulo": {
+        "es": "Portafolio",
+        "en": "Portfolio"
+    },
+    "proyecto1Titulo": {
+        "es": "Portafolio web",
+        "en": "web portfolio"
+    },
+    "proyecto1Descripcion": {
+        "es": "Te ayudo a crear un portafolio web atractivo y profesional que muestre tus habilidades y proyectos de forma efectiva. Desarrollo portafolios personalizados, adaptados a tus necesidades y enfocados en la experiencia de usuario. Utilizo una variedad de tecnologías, incluyendo HTML, CSS, JavaScript, y frameworks como React, junto con otras herramientas y librerías modernas para el desarrollo web. Mi propio portafolio es un ejemplo de lo que puedo hacer.",
+    "en": "I help you create an attractive and professional web portfolio that effectively showcases your skills and projects. I develop custom portfolios, tailored to your needs and focused on user experience. I use a variety of technologies, including HTML, CSS, JavaScript, and frameworks like React, along with other modern web development tools and libraries. My own portfolio is an example of what I can do."
+},
+    "btnProyecto1": {
+        "es": "Ver Portafolio",
+        "en": "See Portfolio"
+    },
+    "proyecto2Titulo": {
+        "es": "Asesoría y Gestión de Cita Previa de Extranjería - Zaragoza",
+        "en": "Consulting and Management of Immigration Appointments - Zaragoza"
+    },
+    "proyecto2Descripcion": {
+        "es": "Desarrollo de una aplicación web informativa y de gestión de citas para la oficina de extranjería en Zaragoza. La plataforma ofrece información detallada sobre los diferentes tipos de visados, requisitos y procedimientos. Además, facilita la gestión de citas previas, permitiendo a los usuarios solicitar y obtener citas de forma eficiente. El proyecto se enfoca en simplificar y agilizar el proceso de trámites de extranjería para los usuarios en España.",
+    "en": "Development of an informative web application for managing appointments at the immigration office in Zaragoza. The platform offers detailed information on different types of visas, requirements, and procedures. Additionally, it facilitates the management of appointments, allowing users to efficiently request and obtain them. The project focuses on simplifying and streamlining the immigration procedures for users in Spain."
+},
+    "btnProyecto2": {
+        "es": "Ver página web",
+        "en": "See website"
+    },
+    "proyecto3Titulo": {
+        "es": "Página Web Personal",
+        "en": "Personal Website"
+    },
+    "proyecto3Descripcion": {
+        "es": "Diseño y desarrollo de mi portafolio web personal para mostrar mis habilidades, proyectos y servicios como ingeniero de software. El sitio web está construido con HTML, CSS, JavaScript y Bootstrap, y se implementan funcionalidades de cambio de idioma y un tema oscuro. Además, se integra un formulario de contacto a través de EmailJS.",
+    "en": "Design and development of my personal portfolio website to showcase my skills, projects, and services as a software engineer. The website is built using HTML, CSS, JavaScript, and Bootstrap, and implements language switching and a dark theme. Additionally, a contact form is integrated using EmailJS."
+},
+    "btnProyecto3": {
+        "es": "Ver página web",
+        "en": "See website"
+    },
+    "hojaVidaTexto": {
+        "es": "Para ver mi hoja de vida completa, visita mi página web:",
+        "en": "To see my complete resume, visit my website:"
+    },
+    "btnHojaVida": {
+        "es": "Hoja de vida",
+        "en": "Resume"
+    },
+    "contactTitulo": {
+        "es": "Contacto",
+        "en": "Contact"
+    },
+    "nombreLabel": {
+        "es": "Nombre:",
+        "en": "Name:"
+    },
+    "emailLabel": {
+        "es": "Email:",
+        "en": "Email:"
+    },
+    "mensajeLabel": {
+        "es": "Mensaje:",
+        "en": "Message:"
+    },
+    "nombreError": {
+        "es": "Por favor, ingresa tu nombre.",
+        "en": "Please, enter your name."
+    },
+    "emailError": {
+        "es": "Por favor, ingresa un email válido.",
+        "en": "Please, enter a valid email."
+    },
+    "mensajeError": {
+        "es": "Por favor, ingresa tu mensaje.",
+        "en": "Please, enter your message."
+    },
+    "btnEnviar": {
+        "es": "Enviar",
+        "en": "Send"
+    },
+    "descripcionInicial": {
+        "es": "Ingeniero de software apasionado por desarrollar soluciones web personalizadas a la medida de las necesidades de mis clientes. Ofrezco servicios que incluyen:",
+        "en": "Software engineer passionate about developing custom web solutions tailored to the needs of my clients. I offer services that include:"
+    },
+    "descripcionFinal": {
+        "es": "Mi objetivo es ayudarte a convertir tus ideas en soluciones tecnológicas eficientes y escalables.",
+        "en": "My goal is to help you turn your ideas into efficient and scalable technology solutions."
+    }
+}
