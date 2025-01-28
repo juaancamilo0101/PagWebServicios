@@ -4,20 +4,20 @@
         "en": "Professional software engineer"
     },
     "inicioDeDireccion": {
-        "es": "Inicio",
-        "en": "Home"
+        "es": "_Inicio",
+        "en": "_Home"
     },
     "resumeDireccion": {
-        "es": "Servicios",
-        "en": "Services"
+        "es": "_Servicios",
+        "en": "_Services"
     },
     "portfolioDireccion": {
-        "es": "Portafolio",
-        "en": "Portfolio"
+        "es": "_Portafolio",
+        "en": "_Portfolio"
     },
     "contactDireccion": {
-        "es": "Contacto",
-        "en": "Contact"
+        "es": "_Contacto",
+        "en": "_Contact"
     },
     "saludo": {
         "es": "Hola, soy Juan Camilo Peña Marín",
