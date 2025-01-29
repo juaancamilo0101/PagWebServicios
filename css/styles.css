@@ -31,12 +31,16 @@
     margin-right: 10px; /* Espacio entre el logo y el texto de la marca */
 }
 
+.navbar-nav .nav-link, .navbar-brand {
+    font-family: 'Roboto Mono'; 
+}
+
 .nav-link {
     text-transform: uppercase; /* Enlaces en mayúsculas */
     font-weight: bold; /* Enlaces en negrita */
     margin-left: 15px; /* Espacio entre enlaces */
     color: #f8f9fa; /* Color de texto claro para los enlaces */
-    font-family: 'Open Sans', sans-serif; /* Fuente principal del proyecto */
+     /*font-family: 'Open Sans', sans-serif; Fuente principal del proyecto */
     font-size: 1rem;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
