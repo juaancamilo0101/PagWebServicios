@@ -7,7 +7,7 @@
     background-color: #0d0d0d; /* Color de fondo oscuro para toda la página */
     color: #f8f9fa; /* Color de texto claro para contraste con el fondo oscuro */
     /*font-family: 'Arial', sans-serif;  Fuente base para toda la página (puedes cambiarla) */
-    font-family: 'VT323', monospace; /* Fuente VT323 y monospace como fallback */
+    font-family: 'Open Sans', sans-serif; /* Fuente principal del proyecto */
 }
 
 /* ==========================================================================
@@ -21,7 +21,7 @@
 .navbar-brand {
     font-weight: bold; /* Texto de la marca (nombre) en negrita */
     font-size: 1.25rem; /* Aumenta el tamaño del texto de la marca */
-    font-family: 'VT323', monospace; /* Fuente VT323 y monospace como fallback */
+    font-family: 'Open Sans', sans-serif; /* Fuente principal del proyecto */
     color: #a7ff83 !important; /* Color verde para la marca */
     padding-left: 1.5rem;
     padding-right: 1.5rem;
@@ -36,8 +36,7 @@
     font-weight: bold; /* Enlaces en negrita */
     margin-left: 15px; /* Espacio entre enlaces */
     color: #f8f9fa; /* Color de texto claro para los enlaces */
-   /* font-family: 'Source Code Pro', monospace;*/
-    font-family: 'VT323', monospace; /* Fuente VT323 y monospace como fallback */
+    font-family: 'Open Sans', sans-serif; /* Fuente principal del proyecto */
     font-size: 1rem;
     padding-left: 1.5rem;
     padding-right: 1.5rem;

@@ -164,16 +164,16 @@
         "en": "Contact"
     },
     "nombreLabel": {
-        "es": "Nombre:",
-        "en": "Name:"
+        "es": "Nombre: *",
+        "en": "Name: *"
     },
     "emailLabel": {
-        "es": "Email:",
-        "en": "Email:"
+        "es": "Email: *",
+        "en": "Email: *"
     },
     "mensajeLabel": {
-        "es": "Mensaje:",
-        "en": "Message:"
+        "es": "Mensaje: *",
+        "en": "Message: *"
     },
     "nombreError": {
         "es": "Por favor, ingresa tu nombre.",
