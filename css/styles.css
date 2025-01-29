@@ -103,7 +103,7 @@
    ========================================================================== */
 
 .hero {
-   background: url('/img/fondo8.jpg') no-repeat center center; /* Reemplaza por tu imagen */
+   background: url('/img/fondo1.jpg') no-repeat center center; /* Reemplaza por tu imagen */
    background-size: cover;
    min-height: 100vh; /* Ocupa toda la altura de la pantalla */
    display: flex;
