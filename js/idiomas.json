@@ -27,10 +27,6 @@
         "es": "Juan Camilo",
         "en": "Juan Camilo"
     },
-    "descripcion": {
-        "es": "Ingeniero de software con experiencia en...",
-        "en": "Software engineer with experience in..."
-    },
     "btnVerServicios": {
         "es": "Ver todos los servicios",
         "en": "See all services"
@@ -191,12 +187,12 @@
         "es": "Enviar",
         "en": "Send"
     },
-    "descripcionInicial": {
-        "es": "Ingeniero de software apasionado por desarrollar soluciones web personalizadas a la medida de las necesidades de mis clientes. Ofrezco servicios que incluyen:",
-        "en": "Software engineer passionate about developing custom web solutions tailored to the needs of my clients. I offer services that include:"
-    },
-    "descripcionFinal": {
-        "es": "Mi objetivo es ayudarte a convertir tus ideas en soluciones tecnológicas eficientes y escalables.",
-        "en": "My goal is to help you turn your ideas into efficient and scalable technology solutions."
-    }
+   "descripcionInicial": {
+    "es": "Ingeniero de software especializado en el desarrollo de soluciones web innovadoras. Me apasiona crear aplicaciones funcionales, atractivas y centradas en el usuario.",
+    "en": "Software engineer specializing in the development of innovative web solutions. I am passionate about creating functional, attractive, and user-centered applications."
+},
+"descripcionFinal": {
+    "es": "Contáctame para que juntos hagamos realidad tu próximo proyecto web.",
+    "en": "Contact me so we can bring your next web project to life together."
+}
 }
